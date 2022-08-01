@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="67467b47-cc48-4b00-b122-f91778bae7aa" name="Ecommerce-Springboot - Kopya1 - Kopya" url="jdbc:mysql://localhost/ecommerce_springboot?useSSL=false&amp;allowMultiQueries=true&amp;serverTimezone=UTC" driverClass="com.mysql.jdbc.Driver" />
+    </data-sources>
+  </component>
+</project>
